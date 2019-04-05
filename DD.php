@@ -12,7 +12,7 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="index.php" class="logo">BWS-HEALTHCARE INDIAS</a>
+					<a href="index.php" class="logo">BWS</a>
 					<nav id="nav">
 						<a href="index.php">Home</a>
 						<a href="company.php">The Company</a>
