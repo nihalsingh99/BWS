@@ -12,13 +12,13 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="index.html" class="logo">BWS-HEALTHCARE INDIAS</a>
+					<a href="index.php" class="logo">BWS-HEALTHCARE INDIAS</a>
 					<nav id="nav">
-						<a href="index.html">Home</a>
-						<a href="company.html">The Company</a>
-						<a href="DD.html">Doctor's Desk</a>
-						<a href="Team.html">Our Team</a>
-						<a href="Products.html">Products</a>
+						<a href="index.php">Home</a>
+						<a href="company.php">The Company</a>
+						<a href="DD.php">Doctor's Desk</a>
+						<a href="Team.php">Our Team</a>
+						<a href="Products.php">Products</a>
 					</nav>
 				</div>
 			</header>
