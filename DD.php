@@ -29,7 +29,7 @@
 				<div class="inner">
 					<header class="major special">
 						<h1>Consultancy</h1>
-						<p>We have a team of doctors working on our customers demand</p>
+						<p>We have a team working on our customers demand</p>
 					</header>
 					<a href="#" class="image fit"><img src="images/8.jpg" alt="" /></a>
 					<p>A prescription is a health-care program implemented by a physician or other qualified health care practitioner in the form of instructions that govern the plan of care for an individual patient. The term often refers to a health care provider's written authorization for a patient to purchase a prescription drug from a pharmacist.</p>
