@@ -7,8 +7,6 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 	<body>
-
-		<!-- Header -->
 			<header id="header">
 				<div class="inner">
 					<a href="index.php" class="logo">BWS</a>
